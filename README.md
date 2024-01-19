@@ -7,7 +7,7 @@ The approach entails detecting motion-to-static transition points in the IMU dat
 
 1. Clone the Pot_Detection repository
     ```Shell
-    https://github.com/LiangXinfeng/Camera-IMU-calibration
+    https://github.com/FSlxf/CameraIMU-calibration
     ```
     
 2. Main.py is used for camera and IMU data sampling. The sampled files are stored in the ‘DATA’ folder. The sampled images are stored in the ‘PHOTO’ folder.
